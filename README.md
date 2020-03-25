@@ -37,7 +37,7 @@ Example GraphQL query
         node {
             id
             title
-            ranl
+            rank
         }
         }
     }
