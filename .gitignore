@@ -1,0 +1,5 @@
+*.sqlite
+/ingest/schema.py
+.vscode
+__pycache__
+/src/.env

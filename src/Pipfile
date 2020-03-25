@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+pylint = "*"
+
+[packages]
+flask = "*"
+flask-graphql = "*"
+flask-sqlalchemy = "*"
+flask-marshmallow = "*"
+graphene = "*"
+graphene_sqlalchemy = "*"
+marshmallow-sqlalchemy = "*"
+urllib3 = "*"
+gunicorn = "*"
+
+[requires]
+python_version = "3.7"
